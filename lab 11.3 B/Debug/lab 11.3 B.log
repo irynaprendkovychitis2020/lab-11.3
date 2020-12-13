@@ -1,0 +1,3 @@
+﻿  lab 11.3 B.cpp
+C:\Users\computer\Desktop\лаби ап\лаб 11\lab 11.3 B\lab 11.3 B\lab 11.3 B.cpp(186,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  lab 11.3 B.vcxproj -> C:\Users\computer\Desktop\лаби ап\лаб 11\lab 11.3 B\Debug\lab 11.3 B.exe
